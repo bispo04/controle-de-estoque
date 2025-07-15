@@ -1,7 +1,3 @@
-Excelente! Vamos criar um **README.md** para esse seu projeto Python. Aqui está um modelo completo que você pode usar ou adaptar como desejar:
-
----
-
 # 💊 Sistema de Gerenciamento de Remédios
 
 Este projeto é um sistema simples em Python para cadastro, consulta, compra e exclusão de remédios. Ele simula o controle de estoque de uma farmácia ou drogaria, possibilitando manter informações sobre produtos armazenados.
